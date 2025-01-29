@@ -11,7 +11,7 @@
 - Sofia Della Zuana Arone
 - Lucas Michel Pereira
 - Matheus Henrique Scapolan Silva
-- [Nome do integrante 6](#)
+- Eduardo Jesus Tavares Sant’Anna
 
 
 ---
