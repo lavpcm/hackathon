@@ -6,14 +6,13 @@
 ---
 
 ## **👥 Integrantes do Grupo**  
-- [Nome do integrante 1](#)
-- [Nome do integrante 2](#)
-- [Nome do integrante 3](#)
-- [Nome do integrante 4](#)
+- Lavínia Pietra Carvalho Mendonça
+- Wendel Hebert Feitosa
+- Sofia Della Zuana Arone
+- Lucas Michel Pereira
 - [Nome do integrante 5](#)
 - [Nome do integrante 6](#)
-- [Nome do integrante 7](#)
-- [Nome do integrante 8](#)
+
 
 ---
 
