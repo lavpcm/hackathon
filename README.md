@@ -1,7 +1,7 @@
 # 🤖 **Agente GPT: ResolveX**
 
 ### **🔗 Link do Agente GPT:**  
-> _[Insira o link do GPT criado aqui.]_
+> https://chatgpt.com/g/g-679ad8e9c7f48191b26556233c5fbd14-resolvex
 
 ---
 
