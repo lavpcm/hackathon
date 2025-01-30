@@ -42,8 +42,10 @@ O agente é treinado para ser capaz de discorrer sobre diversos temas relacionad
 ## **📚 Bases de Conhecimento**  
 
 ### **⚠️ Prompts**
-- 📗 https://glamorous-split-f3d.notion.site/ResolveX-prompt-finalizado-18ad3a614fae80509eece4b1d251793d?pvs=4
-- _[link para um arquivo .txt contendo os prompts utilizados no treinamento do agente]_
+- em web: https://glamorous-split-f3d.notion.site/ResolveX-prompt-finalizado-18ad3a614fae80509eece4b1d251793d?pvs=4
+- em txt: https://drive.google.com/file/d/1eRsWlWAk-kEE3va2H46aiS9pi-i8KxHb/view?usp=sharing
+- prompt secundário (em txt): https://drive.google.com/file/d/10TizH2o1GD0HWXpdVJVzL986i4venB1b/view?usp=sharing
+obs: o prompt secundário não foi incluído na configuração final do agente, porém possui importância no desenvolvimento do ResolveX
 
 ### **📘 Principais Referências Utilizadas:**  
 - 📗 https://drive.google.com/file/d/15qXc_XmwfhhOh7GIK-Rmkc-Enc2TXBTB/view?usp=sharing
