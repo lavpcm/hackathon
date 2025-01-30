@@ -45,9 +45,9 @@ O agente é treinado para ser capaz de discorrer sobre diversos temas relacionad
 - 📗 _[link para um arquivo .txt contendo os prompts utilizados no treinamento do agente]_
 
 ### **📘 Principais Referências Utilizadas:**  
-- 📗 _[Nome ou link da base de conhecimento 1]_  
-- 📙 _[Nome ou link da base de conhecimento 2]_  
-- 📕 _[Nome ou link da base de conhecimento 3]_  
+- 📗 _[](https://drive.google.com/file/d/15qXc_XmwfhhOh7GIK-Rmkc-Enc2TXBTB/view?usp=sharing)_  
+- 📙 _[](https://drive.google.com/file/d/1tgQ6C7ah6sIRfc-KQPNNyPEF3bgVCl3B/view?usp=sharing)_  
+- 📕 _[](https://drive.google.com/file/d/1unClesD2j6I1gDdJEylTkRKR_tNppLPf/view?usp=sharing)_  
 
 ### **📖 Documentações Complementares:**  
 🔗**SANTOS, João**. Disponível em: https://books.google.com.br/books?hl=pt-BR&lr&id=ITYi9pq0_UYC&oi=fnd&pg=PA12&dq=info:bawWobUlHKsJ:scholar.google.com/&ots=Wh-2JC7VCy&sig=hp9Z-jsXGinneJmTY5VXHRBP4Dc. Acesso em: 29 jan. 2025.
