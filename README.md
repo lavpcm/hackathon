@@ -51,6 +51,7 @@ O agente é treinado para ser capaz de discorrer sobre diversos temas relacionad
 - 📗 https://drive.google.com/file/d/15qXc_XmwfhhOh7GIK-Rmkc-Enc2TXBTB/view?usp=sharing
 - 📙 https://drive.google.com/file/d/1tgQ6C7ah6sIRfc-KQPNNyPEF3bgVCl3B/view?usp=sharing
 - 📕 https://drive.google.com/file/d/1unClesD2j6I1gDdJEylTkRKR_tNppLPf/view?usp=sharing
+- 📘 https://drive.google.com/file/d/1AqQbCTlHHxp4CX5L8oQMmNPLxM_h0FuY/view?usp=sharing
 
 ### **📖 Documentações Complementares:**  
 🔗**SANTOS, João**. Disponível em: https://books.google.com.br/books?hl=pt-BR&lr&id=ITYi9pq0_UYC&oi=fnd&pg=PA12&dq=info:bawWobUlHKsJ:scholar.google.com/&ots=Wh-2JC7VCy&sig=hp9Z-jsXGinneJmTY5VXHRBP4Dc. Acesso em: 29 jan. 2025.
