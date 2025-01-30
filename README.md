@@ -42,7 +42,8 @@ O agente é treinado para ser capaz de discorrer sobre diversos temas relacionad
 ## **📚 Bases de Conhecimento**  
 
 ### **⚠️ Prompts**
-- 📗 _[link para um arquivo .txt contendo os prompts utilizados no treinamento do agente]_
+- 📗 https://glamorous-split-f3d.notion.site/ResolveX-prompt-finalizado-18ad3a614fae80509eece4b1d251793d?pvs=4
+- _[link para um arquivo .txt contendo os prompts utilizados no treinamento do agente]_
 
 ### **📘 Principais Referências Utilizadas:**  
 - 📗 https://drive.google.com/file/d/15qXc_XmwfhhOh7GIK-Rmkc-Enc2TXBTB/view?usp=sharing
